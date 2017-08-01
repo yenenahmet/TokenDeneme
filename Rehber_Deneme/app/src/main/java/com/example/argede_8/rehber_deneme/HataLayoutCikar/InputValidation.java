@@ -1,8 +1,4 @@
-package com.example.argede_8.rehber_deneme.HataLayoutCikar;
 
-/**
- * Created by ARGEDE_8 on 5/8/2017.
- */
 import android.app.Activity;
 import android.content.Context;
 import android.support.design.widget.TextInputEditText;
