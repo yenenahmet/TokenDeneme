@@ -3,9 +3,7 @@ package com.example.argede_8.rehber_deneme.Static;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-/**
- * Created by ARGEDE_8 on 4/25/2017.
- */
+
 
 public class ResimCozunurluk {
      static int calculateInSampleSize(BitmapFactory.Options _Options, int reqWidth, int reqHeight) {
