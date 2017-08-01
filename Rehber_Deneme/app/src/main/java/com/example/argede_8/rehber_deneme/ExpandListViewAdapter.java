@@ -1,4 +1,3 @@
-package com.example.argede_8.rehber_deneme;
 
 import android.content.Context;
 import android.graphics.Color;
