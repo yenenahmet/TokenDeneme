@@ -1,4 +1,4 @@
-package com.example.argede_8.rehber_deneme.Static;
+
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;
@@ -7,9 +7,6 @@ import android.graphics.Paint;
 
 import com.squareup.picasso.Transformation;
 
-/**
- * Created by Jonat on 04/06/2016.
- */
 public class CircleTransformation implements Transformation
 {
     @Override
